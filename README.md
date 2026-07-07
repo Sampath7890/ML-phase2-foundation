@@ -14,15 +14,15 @@ A structured self-study roadmap covering supervised machine learning, classifica
 
 ## 📁 Structure
 
-**week7/** → Scikit-learn Pipelines, Data Preprocessing, Gradient Descent, Logistic Regression Theory
+**week1/** → Scikit-learn Pipelines, Data Preprocessing, Gradient Descent, Logistic Regression Theory
 
-**week8/** → Logistic Regression Implementation, Evaluation Metrics, Overfitting & Underfitting
+**week2/** → Logistic Regression Implementation, Evaluation Metrics, Overfitting & Underfitting
 
-**week9/** → Feature Engineering, Correlation Analysis, Decision Trees
+**week3/** → Feature Engineering, Correlation Analysis, Decision Trees
 
-**week10/** → SQL for ML, Regularization, Random Forest, Imbalanced Data
+**week4/** → SQL for ML, Regularization, Random Forest, Imbalanced Data
 
-**week11/** → Major Project — Hyderabad Rental Price Estimator (Coming Soon)
+**week5/** → Major Project — Hyderabad Rental Price Estimator (Coming Soon)
 
 ---
 
