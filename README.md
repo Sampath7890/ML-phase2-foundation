@@ -42,15 +42,15 @@ B.Tech CSE (AI & ML) @ Keshav Memorial College of Engineering (KMCE), Hyderabad
 
 ## 📈 Progress
 
-✅ Week 7 — Pipelines + Gradient Descent + Logistic Regression Theory
+✅ Week 1 — Pipelines + Gradient Descent + Logistic Regression Theory
 
-⬜ Week 8 — Logistic Regression + Evaluation Metrics
+⬜ Week 2 — Logistic Regression + Evaluation Metrics
 
-⬜ Week 9 — Feature Engineering + Decision Trees
+⬜ Week 3 — Feature Engineering + Decision Trees
 
-⬜ Week 10 — Random Forest + SQL + Regularization
+⬜ Week 4 — Random Forest + SQL + Regularization
 
-⬜ Week 11 — Hyderabad Rental Price Estimator
+⬜ Week 5 — Hyderabad Rental Price Estimator
 
 ---
 
