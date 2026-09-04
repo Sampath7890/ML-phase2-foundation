@@ -71,8 +71,6 @@ By completing this repository, I will gain hands-on experience with:
 
 ---
 
-
-
 STARTING SOON
 
 
